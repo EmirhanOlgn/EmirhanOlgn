@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/EmirhanOlgn/EmirhanOlgn/refs/heads/main/media/background.png" alt="GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/EmirhanOlgn/EmirhanOlgn/refs/heads/main/media/github-background.gif" alt="GitHub" width="100%" />
 
 ## 👋 Hello World! These are my social addresses
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/emirhanolgn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emirhanolgun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emirhanolgn@outlook.com) 
